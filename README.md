@@ -1,5 +1,5 @@
 # docker-retracker
-Docker container for vvampirius/retracker
+Docker container for saradmin/retracker
 
 ## How to run
 ```bash
